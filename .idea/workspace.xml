@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af15a145-7c5d-4e2a-9122-cea193c8931e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/common/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/android/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/android/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/blackberry/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/blackberry/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/chrome/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/chrome/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/chrome/remote_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/chrome/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/chrome/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/action_chains.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/action_builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/input_device.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/interaction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/key_actions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/key_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/mouse_button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/pointer_actions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/actions/pointer_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/alert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/by.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/desired_capabilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/html5/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/html5/application_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/keys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/touch_actions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/common/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/edge/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/edge/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/edge/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/edge/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/extension_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/firefox_binary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/firefox_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/remote_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/webdriver.xpi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/webdriver_prefs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/webelement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/ie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/ie/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/ie/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/ie/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/opera/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/opera/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/opera/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/phantomjs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/phantomjs/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/phantomjs/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/errorhandler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/file_detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/getAttribute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/isDisplayed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/mobile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/remote_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/switch_to.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/remote/webelement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/safari/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/safari/permissions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/safari/remote_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/safari/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/safari/webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/abstract_event_listener.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/event_firing_webdriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/expected_conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/select.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/support/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/webkitgtk/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/webkitgtk/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/webkitgtk/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium/webdriver/webkitgtk/webdriver.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ANRYnOE5Vhgi05MdwjbaECLF0a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jecer/PycharmProjects/WordStat",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.вц">
+    <configuration name="вц" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WordStat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/вц.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WordStat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WordStat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sdv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WordStat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WordStat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.вц" />
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.sdv" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.dw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af15a145-7c5d-4e2a-9122-cea193c8931e" name="Changes" comment="" />
+      <created>1654848106678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654848106678</updated>
+      <workItem from="1654848107899" duration="1315000" />
+      <workItem from="1654945996411" duration="10668000" />
+      <workItem from="1654957198642" duration="1140000" />
+      <workItem from="1654973220901" duration="8056000" />
+      <workItem from="1655026059433" duration="5762000" />
+      <workItem from="1655068396446" duration="173000" />
+      <workItem from="1655068736268" duration="194000" />
+      <workItem from="1655117230946" duration="994000" />
+      <workItem from="1655122025093" duration="1259000" />
+      <workItem from="1655317861468" duration="3537000" />
+      <workItem from="1655368562430" duration="236000" />
+      <workItem from="1655383678235" duration="9660000" />
+      <workItem from="1655397879479" duration="2000" />
+      <workItem from="1655397988965" duration="695000" />
+      <workItem from="1655640009066" duration="25000" />
+      <workItem from="1655643173784" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="63620f22-4a40-469a-afb4-665b8faa7051">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="63620f22-4a40-469a-afb4-665b8faa7051" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WordStat$dw.coverage" NAME="dw Coverage Results" MODIFIED="1655068821060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WordStat$setup.coverage" NAME="setup Coverage Results" MODIFIED="1655320033331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WordStat$index.coverage" NAME="index Coverage Results" MODIFIED="1655393360706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WordStat$.coverage" NAME="вц Coverage Results" MODIFIED="1655398505965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WordStat$sdv.coverage" NAME="sdv Coverage Results" MODIFIED="1655392223405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
