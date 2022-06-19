@@ -37,7 +37,7 @@ try:
                                                  'Spacer_auto-gap_bottom > div >'
                                                  ' form > div > div.CheckboxCaptcha-Anchor > input')
     eror.click()
-
+    # обработка капчи (если только нужно нажать на "я не робот"
     # search = browser.find_element(By.CSS_SELECTOR, '#uniq16547008090681')
     # search.clear()
     # search.send_keys(query)
