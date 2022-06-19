@@ -16,7 +16,7 @@ query = input('Введи запрос: ')
 url = f'https://yandex.ru/search/?text={query}'
 
 
-# number = int(input('Сколько страниц (не более 5):  '))
+number = int(input('Сколько страниц (не более 5):  '))
 
 def resource_path(relative_path):
     try:
@@ -47,7 +47,7 @@ try:
     # button.click()
 
     all_ = browser.find_elements(By.XPATH, '/html/body/div[3]/div[2]/div[2]/div[1]/div[1]')
-    for x in range(3):
+    for x in range(number):
         for k in all_:
             h2 = browser.find_elements(By.XPATH, '//*[@id="search-result"]'
                                                  '//div/div[1]/a/h2/span')
@@ -80,7 +80,7 @@ except:
     button.click()
 
     all_ = browser.find_elements(By.XPATH, '/html/body/div[3]/div[2]/div[2]/div[1]/div[1]')
-    for x in range(3):
+    for x in range(number):
         for k in all_:
             h2 = browser.find_elements(By.XPATH, '//*[@id="search-result"]//div/div[1]/a/h2/span')
             for i in h2:
